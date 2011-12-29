@@ -1,0 +1,6 @@
+#include <guistuff>
+using namespace std;
+
+//what gui library do we use?
+
+
